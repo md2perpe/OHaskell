@@ -1,0 +1,45 @@
+(C) 2004-2010, Oleg Kiselyov, Ralf Laemmel, Keean Schupke
+
+OOHaskell -- Haskell's overlooked object system
+
+----------------------------------------------------------------------
+
+Getting the code
+
+> darcs get http://code.haskell.org/OOHaskell
+
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+The code relies on the HList library.
+(The Makefile attempts to find HList in the same root dir as OOHaskell.)
+The code has been released for GHC 6.4.
+See the Makefile for ways of running test cases.
+
+Here is a brief overview on the sample files:
+
+- SimpleIO.hs        -- Simple objects in classes; in the IO monad
+- SimpleST.hs        -- Incomplete variation using the ST monad
+- CircBuffer.hs      -- A typical polymorphic collection type
+- Selfish.hs         -- Open recursion and inheritance examples
+- Shapes*.hs         -- Several encodings of the shapes example
+- SelfReturn.hs      -- Returning self; almost
+- CovariantArgs.hs   -- Co-variant argument types as in Eiffel
+- EiffelFaqLcon.hs   -- Co-variance example from Eiffel FAQ
+- CovariantReturn.hs -- Co-variant return types as in Java 5
+- RecList.hs         -- Iso-recursive types; recursive classes
+- Nominal*.hs        -- Nominal types; nominal subtype polymorphism
+- DynamicOo.hs       -- Dynamics for OOHaskell objects
+- DeepNarrow.hs      -- A narrow operation for deep subtyping
+- DeepSubtyping.hs   -- Examples for width vs. depth subtyping
+- New.hs             -- Operations for safe value recursion
+- SelfishSafe.hs     -- Many examples with safe value recursion
+
+
+Non-OOHaskell examples:
+
+- Weirich	-- The C++ implementation from the Shapes Code Suite.
+- Rathman	-- The Haskell implementation from the Shape Code Suite.
+- Shapes1 ..    -- non-OOHaskell-based implementations of shapes example.
+- ...           -- See other subdirs in repository/shapes

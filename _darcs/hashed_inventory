@@ -1,0 +1,195 @@
+pristine:0c2796851f891b80963762b3483530137f9195c7a7fcbf20023dd8f6c3ed62f6
+Starting with inventory:
+0000026007-037939a5564e34290d72ebd155ea715c162fcd812fa1dddce575b74dfd328749
+[TAG RELEASE-Sep-05
+oleg@okmij.org**20060823084702] 
+hash: 0000011963-3661adde874d528ed6f6b85626fabb1b39f28ebe17f878885528526e605ec39b
+[Adjusting for the change in record field representation.
+oleg@okmij.org**20060831003623] 
+hash: 0000002144-f379ad94cf8e50e6c6f9016531c0a9a69057643633206e4c97866cb9e076544f
+[Committed from the Makefile
+rlaemmel@gmail.com**20070824213818] 
+hash: 0000011377-90f6ae2f95a4981cddd3c02f1ca9ff269c1ed379bccf08dd6585099a928ef85a
+[Committed from the Makefile
+rlaemmel@gmail.com**20070831234129] 
+hash: 0000008851-c5df834a3998ba8173e2bf1c5f7e9c8a9395d2fe9bd8ceceeb21aa6791d11066
+[Committed from the Makefile
+rlaemmel@gmail.com**20070901231214] 
+hash: 0000005439-3b5de12486350fe72914da30d50a06048870f942ab9e65948d41e4126bd82a34
+[Committed from the Makefile
+rlaemmel@gmail.com**20070903003650] 
+hash: 0000008439-eb606e0857a123e7a3ec71fd042fe7cfc70bf604e8d5986f7c8111f67d6361ec
+[Emulating existentials in Haskell98
+oleg@okmij.org**20070904033203] 
+hash: 0000001925-5a488c9a1cb45a43efaa75808fa110d8df22e3e64919bb9b0830a2e8d4a3b89e
+[Using existentials for type abstraction. No typeclasses.
+oleg@okmij.org**20070904033305] 
+hash: 0000005670-7a51d19f053c7ee4f635e8dcdf7522389e66b05a5d4f227a7528e27143dc020e
+[simplify consEither and rely on a type error rather than a run-time error. No need for run-time testing for an empty tail.
+oleg@okmij.org**20070904224042] 
+hash: 0000000540-01da3e2a87fcfca2445f6ea5c3e73b78aa3eebb259fa7cd4d809bbe17ed0e52f
+[Adjusting for GHC 6.6.xthe semantics of local type variables changed in GHC 6.6
+oleg@okmij.org**20070904230042] 
+hash: 0000000242-5b5dfa5690a532de0bc66adb4b637203ea94fdfb9457963d1c17c61ffbe3f27f
+[The efficient version of consEither, generalizing the regular cons.
+oleg@okmij.org**20070905010432] 
+hash: 0000007201-555f2030daa1e068859155d95e5d65baf3542ce52453734e37503c1d10f7cc56
+[consEither is moved to ConsUnion.hs of HList.
+oleg@okmij.org**20070906000721] 
+hash: 0000005265-11731e29c5b81ed1a502e8a37015244c5b8263d5f23e59a0859337dc5497d596
+[Committed from the Makefile
+rlaemmel@gmail.com**20070907012151] 
+hash: 0000009733-64b3dcf60eec2dabd168a79625a76031d8ada377b1d860f47bc3f86da3b41aa1
+[Committed from the Makefile
+rlaemmel@gmail.com**20070907164921] 
+hash: 0000001678-263e0ad7737c29cf8c491db98fb3ef9beaff7db766f730727e699be98cafd7a0
+[Committed from the Makefile
+rlaemmel@gmail.com**20070908232924] 
+hash: 0000001874-f60c851224da0595f8a4a96a04e19535514ce326abd91dc4fe8a92b8b2583afc
+[Committed from the Makefile
+rlaemmel@gmail.com**20070909011138] 
+hash: 0000006254-ef4f07c399ab5c73e76380489bc011726fbfe0f96e2c32b334f23d40e059220e
+[fixing problems related to the new interpretation of local type variables in GHC6.
+oleg@okmij.org**20070910005844] 
+hash: 0000005967-39219ebf8580ca5f2faa6f0f11e8d41e55e376ebaeda5b179fb0d250fa7e8634
+[Committed from the Makefile
+rlaemmel@gmail.com**20070910015933] 
+hash: 0000005500-3787e23ffad77a3cb9561380cf42c5e44d4b517d268629cc6610f45086977d67
+[added MakeLabels
+oleg@okmij.org**20070912005611] 
+hash: 0000003366-bb6f750121d2b00eeddbac194d70de907767cb71fd14655112a539478befe44b
+[Committed from the Makefile
+rlaemmel@gmail.com**20070912193252] 
+hash: 0000004317-e905bf1c1372b99b9e51bf13b6af6e45c2edf799b6fd128ee69f41ab2f7ccfde
+[Moving MakeLabels to HList.
+oleg@okmij.org**20070913010229] 
+hash: 0000002991-0a47383d4df96aab96f71a03014f1841d9817d335b941157bc948d2c09f77bc0
+[Added ShapesGlb -- dual of Lub
+oleg@okmij.org**20070914012207] 
+hash: 0000004588-249a5fd892bca766c9dfd857074dae3ef6fadeed2b652cf7fb7141b0fc4fbdbc
+[Committed from the Makefile
+rlaemmel@gmail.com**20070917152006] 
+hash: 0000000565-253522ad9f30dc600d5905e0f5018e7d83c92abf590db90b4affabc0a95526b5
+[Revised OOHaskell's shape problem
+rlaemmel@gmail.com**20070917230250] 
+hash: 0000003927-ac681daa2f7f2a73dbbd857294c5b0facbcbedadbf3a4c39e1915522455ec09f
+[Committed from the Makefile
+rlaemmel@gmail.com**20070918223529] 
+hash: 0000038833-8968dfd8676ae2d9174fa4bacb8105cdb32a919f5b052fa5c5892a1998b97a9a
+[in the middle of the OCaml examples
+rlaemmel@gmail.com**20070919023436] 
+hash: 0000003588-9fc9b0043e1dd22d50b5c2e89542ae99fba94c6d8a434639c2a22dee06fff626
+[ShapesEitherR; needs more work.
+oleg@okmij.org**20070919073322] 
+hash: 0000004801-6a5ba3f34584501b6271379da480324b4f1ca10028d03ef430273618da85f4d3
+[Union modulo record field order.
+oleg@okmij.org**20070920010813] 
+hash: 0000001207-cf28b2605caadef89696ed4190b3ccdeece003a0ea641c551befc5937fed096b
+[Committed from the Makefile
+rlaemmel@gmail.com**20070920043239] 
+hash: 0000010282-a9f798ee24a0746afb617d35f84390bddc48e5e9f4e9234194c6103ebbe96d7e
+[Committed from the Makefile
+rlaemmel@gmail.com**20070921003652] 
+hash: 0000002685-595f60667682708b947b1c72c7fb82bf21d16fd2e47a7d9b02e08f4bbeff05d4
+[Committed from the Makefile
+rlaemmel@gmail.com**20070921202856] 
+hash: 0000006082-5b907cafa7ab5af73e95284f899d191c584f0718f06a51576bbba2503c8b1541
+[Committed from the Makefile
+rlaemmel@gmail.com**20070921202941] 
+hash: 0000002977-d7469d7125e38a5617cd4d9e520cf44f54c628a85fd05fee96c8c82084f45292
+[Committed from the Makefile
+rlaemmel@gmail.com**20070922014800] 
+hash: 0000000847-187a8ae0d5065eb94882e4499e11a5ab6d32ca934833f85e1d49932cc2aaf2e1
+[Committed from the Makefile
+rlaemmel@gmail.com**20070923003926] 
+hash: 0000001431-1ff47cc8699d4d55d07afe8ee5efd662e356910426e2ed859e25626ecefeeb7a
+[Committed from the Makefile
+rlaemmel@gmail.com**20070923225833] 
+hash: 0000002970-7fee407eec5af6c55413283dcdc3d1334306da311af8dd32ee58d8359c0e2654
+[Beautifying Shapes: more frugal use of vertical space
+oleg@okmij.org**20070926040031] 
+hash: 0000011604-0d83d8783a20563903ade7adf7cf22fdf81a2d5b9c41819ec017f2475fc1b9c3
+[Normalizing indentation
+oleg@okmij.org**20070928011745] 
+hash: 0000028621-f458d519cb0ad252dcc32e5ad77c1b6ff8a42772bcbc9e1c98f25889377b115d
+[getting rid of queryIORef; use fmap instead
+oleg@okmij.org**20070929063551] 
+hash: 0000000524-50633a1d5a1498dbd63fa6b97d4ac033f97e73180a3d7c937ec4d00539a47a9a
+[newAndInitialize that is backwards compatible with mfix: run the object initializer, if present.
+oleg@okmij.org**20070929072138] 
+hash: 0000002241-caadd8ef181bd8e151ae438beb158892cb84d435121be62aeb2e96ac4de4b0d3
+[Committed from the Makefile
+rlaemmel@gmail.com**20071006053247] 
+hash: 0000000414-43552e9180e041336aa25edb9b273cb9f404a4f71d0648992f1df51c6213d5f2
+[added a note on binary methods in OCaml. Binary methods break subtyping.
+oleg@okmij.org**20071023100803] 
+hash: 0000001697-3f779ee24fb36f5fa1a8c3ea33c96179593a582ade8697fca91738e9c27378b3
+[Making HList imports qualified
+oleg@okmij.org**20081016033521] 
+hash: 0000002686-e746b0df99375b402c365234368ef25c34b69f451683dfff6ef5707f8812ce71
+[darcs instructions
+rlaemmel@gmail.com**20100110005753
+ Ignore-this: 4f91c2a5d7e54f986f6bc885b4d17924
+] 
+hash: 0000000565-614a2b356fe93469aa77fa97ad20618b146bf20d51b8d211d5d7b66cb4f1b726
+[darcs instructions corrected
+rlaemmel@gmail.com**20100110010100
+ Ignore-this: 44caf2b6b9aa39c1b7cc34de72a25bef
+] 
+hash: 0000000210-3451a52b7cd2fe1025db186bab9e43282d27abc03b5ed6be719a943d52fae918
+[Committed from the Makefile
+rlaemmel@gmail.com**20100110043002
+ Ignore-this: 2b3625fc092b48cda357ab1dd8127f44
+] 
+hash: 0000015971-014120ae5ba18309fee82da9a6b71382529caa2c2dc8939a5e1bd19a76d40ea6
+[Adding more clever printLn method
+rlaemmel@gmail.com**20100110094712
+ Ignore-this: 60ad18e22a7b9393141d8c5f13213431
+] 
+hash: 0000003593-125473296c1885dff340e7e02391f8d6ed09aca17df106f200ecec476d8a817a
+[Cleaning up redundant test cases for shapes
+rlaemmel@gmail.com**20100110115502
+ Ignore-this: 6d759828f3900065d18a590f3e8bafdb
+] 
+hash: 0000001672-0add453cd898ad5169bb25a9cdfe84ee498412846b3d62ee92c7abfd2351d1f8
+[normalisation of examples
+rlaemmel@gmail.com**20100110180708
+ Ignore-this: 9f296c0958af5eabf776808b422e10fa
+] 
+hash: 0000006684-ed263bcead1fef7c79f5dd78a79963fbe18d4f1763e8cc4ddd750a0b0d2c8080
+[progress with examples
+rlaemmel@gmail.com**20100111105521
+ Ignore-this: d71dc6018e232def9b452dd3422e2dc9
+] 
+hash: 0000007307-28d5b295be5fe8fd7eb3aa9fe6e62c6bc00e27075f281c32d742d2bd7ed91085
+[major reorg of directory structure
+rlaemmel@gmail.com**20100111120321
+ Ignore-this: 90c8c3aa40c998c7467f384a9e159edc
+] 
+hash: 0000005512-bb3ad311ed0a5814c3edd613787d775834a518ed4980af6fad25fb9bc4738b6d
+[Committed from the Makefile
+rlaemmel@gmail.com**20100111143527
+ Ignore-this: d8c6615e8bb7359295afc7d06d088bd7
+] 
+hash: 0000017285-77d84c3470415718ed775b94b858cd4ab391cbb66e50ad62003a82d71002109e
+[Committed from the Makefile
+rlaemmel@gmail.com**20100111184119
+ Ignore-this: 4fb064ae865702db709515d016c729a0
+] 
+hash: 0000006746-134f4452b99cb324a7901b237368e96e72a54dfc11e270c8dcd0a4b4898f4a7a
+[See ChangeLog
+rlaemmel@gmail.com**20100112051313
+ Ignore-this: 5d8ccae260152f568c106da87b1d9cad
+] 
+hash: 0000008605-fad29ed2500caff0fa83a2cf60283eed0d34434eb9bac6f4cf5c0e5fc6ea08c0
+[Small tweaks, mainly in the Makefiles
+oleg@okmij.org**20100115013720] 
+hash: 0000001807-de9505b142353773afd250ad66ce087c0cdb08324c962d2f545ae2c0a4582819
+[A few more LANGUAGE pragmas.
+oleg@okmij.org**20101221090755] 
+hash: 0000001278-23ed6420f2a3c6a086d800a43b38bc911bf30cf432a6d7fb3a9b865762886a13
+[See ChangeLog
+oleg@okmij.org**20111109021118
+ Ignore-this: a605ac8522283a5b48bca21df3363d9f
+] 
+hash: 0000004309-825b1ac2b0be65717c366fb23c0f1fa68d9f1e0a5d58ffd15df923af7788943e

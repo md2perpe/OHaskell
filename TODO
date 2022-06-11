@@ -1,0 +1,12 @@
+- The ShapesGlb approach is rather useless.
+- The ShapesEither implementation needs to make more reuse.
+- Use this order: HasField r Draw (IO ())
+- We need to cut down on redundancy, e.g., OCamlTutorial.hs vs. Selfish.hs
+- Family needs to be cleaned up and/or documented, removed.
+- UpCast1.hs? Not even tested.
+- Door.hs? Not even tested.
+- DML.hs? Not even tested.
+- We need to separate worked out examples from incomplete stuff: LocalSigs, ...
+- Should we try to challenge EiffelFAQ's test1 restriction?
+- DeepNarrow relies on overlapping instances; either it shouldn't, or we could eliminate the extra effort for TopTyCon and still be overlapping.
+- The story of DeepSubtyping.hs (with points) is also embedded into CovariantReturn.hs (done with shapes there). The latter one is much simpler in terms of code size btw. We should refactor at least to show TWO DeepSubtyping examples. Both deep narrowing scenarios deal with co-variant results.

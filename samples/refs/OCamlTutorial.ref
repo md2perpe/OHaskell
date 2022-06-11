@@ -1,0 +1,67 @@
+myFirstOOP
+0
+3
+
+mySecondOOP
+42
+testPara
+132
+testConstr
+10122
+myNestedOOP
+1
+2
+
+myInitializingOOP
+new point at 7
+9
+9
+mySelfishOOP
+9
+myBoundedGenericClassOOP
+3
+3.5
+
+myPolyPrintable
+33.5
+myFirstClassOOP
+42myFirstClassOOP
+so far - 42color  - red
+myColoredOOP
+(5,"red")
+myOverridingOOP
+so far - 5color  - red
+myOverridingOOP'
+so far - 14.0color  - red
+myOverridingOOP''
+(5, red)
+myGenericFunctionOOP
+14
+
+myGenericClassOOP
+2
+
+myGenericMethodOOP
+6
+1 2 3 
+myGenericMethodOOP'
+6
+myGenericMethodOOP''
+6
+1 2 3 
+testVirtual
+799
+testVirtual'
+799
+myPrivacyOOP
+7
+9
+
+myPrivacyOOP'
+79
+myBinaryMethodOOP'
+True
+False
+myBinaryMethodOOP''
+True
+False
